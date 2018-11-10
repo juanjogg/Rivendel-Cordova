@@ -1,0 +1,4 @@
+#Fri Oct 19 17:49:13 COT 2018
+base.0=D\:\\Universidad\\Semestre 8\\AppsMoviles\\genCordova\\Rivendel\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=D\:\\Universidad\\Semestre 8\\AppsMoviles\\genCordova\\Rivendel\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
